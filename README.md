@@ -10,8 +10,7 @@ Cílem dashboardu je ukázat, jak se v čase mění koncentrace kapitálu, jaký
 
 ## 📊 Náhled reportu
 
-*(Zde nahraj 1-2 screenshoty svého hotového dashboardu - např. první a druhou stránku)*
-`![Náhled Dashboardu](odkaz_na_obrazek.png)`
+<img width="2052" height="1154" alt="image" src="https://github.com/user-attachments/assets/099a2ced-3cad-4a6e-a7b0-5a217f42398b" />
 
 ---
 
