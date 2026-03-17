@@ -1,4 +1,4 @@
-# Analýza mezigenerační distribuce bohatství v USA (Power BI)
+# Analýza mezigenerační distribuce bohatství v USA (Engeto Proj 5)
 
 Tento projekt vizualizuje a analyzuje data o distribuci majetku ve Spojených státech napříč různými demografickými generacemi (Silent Generation, Baby Boomers, Gen X, Millennials). 
 
