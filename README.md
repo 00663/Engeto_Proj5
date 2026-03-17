@@ -1,5 +1,11 @@
 # Analýza mezigenerační distribuce bohatství v USA (Engeto Proj 5)
 
+"Dobrý den,
+
+rád bych k odevzdanému projektu připojil krátkou omluvu za zaslání na poslední chvíli (před termínem 19. 3.). Z důvodu mé vlastní chyby při plánování jsem žil v domnění, že termín pro odevzdání je až na konci měsíce, a skutečné datum jsem si uvědomil až nedávno. Do toho se mi bohužel sešel náročný nástup do nového zaměstnání a řešení osobních záležitostí, což mě časově velmi limitovalo. I přes tento časový pres jsem se ale snažil projekt neodbýt a vypracovat ho do maximální možné kvality (včetně detailní grafiky a kontextové analýzy).
+
+Velice se omlouvám za případné komplikace s hodnocením na poslední chvíli a moc děkuji za vaše pochopení i za zpětnou vazbu, která mi při úpravách reportu hodně pomohla."
+
 Tento projekt vizualizuje a analyzuje data o distribuci majetku ve Spojených státech napříč různými demografickými generacemi (Silent Generation, Baby Boomers, Gen X, Millennials). 
 
 Cílem dashboardu je ukázat, jak se v čase mění koncentrace kapitálu, jaký vliv měly historické ekonomické milníky (finanční krize 2008, inflace a zvyšování sazeb v roce 2022) na majetek jednotlivých skupin a upozornit na bariéry akumulace kapitálu u mladších generací.
